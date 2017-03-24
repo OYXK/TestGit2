@@ -1,8 +1,7 @@
-
 Pod::Spec.new do |s|
   s.name         = "Test2"
 
-  s.version      = “1.1”
+  s.version      = "1.1"
 
   s.summary      = "A test Project"
 
