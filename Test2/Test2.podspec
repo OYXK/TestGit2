@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "Test2"
 
-  s.version      = "1.1"
+  s.version      = "1.2"
 
   s.summary      = "A test Project"
 
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.platform = :ios, '9.0'
 
-  s.source       = { :git => "https://github.com/OYXK/TestGit2.git", :tag => "1.1"}
+  s.source       = { :git => "https://github.com/OYXK/TestGit2.git", :tag => "1.2"}
 
   s.source_files  = "Test2", "Test2/**/*.{h,m}"
  
